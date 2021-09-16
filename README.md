@@ -22,7 +22,7 @@
 [Docker](https://www.docker.com/get-started)のサイトから、自分のPCにあったバージョンのDocker Desktopをダウンロードしてインストールしてください。Mac版はIntel Chip用とApple Chip用があります。
 
 ## Windowsの環境設定
-以下の手順はWindowsにのみ必要です。
+以下の手順はWindowsにのみ必要です。以下の内容は[こちら](https://docs.microsoft.com/ja-jp/windows/wsl/install-win10)の記事を展開したものです。
 
 1. PowerShellを管理者として実行します。  
 2. 以下のコマンドを実行します（Linux 用 Windows サブシステムを有効にする）。
