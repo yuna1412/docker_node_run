@@ -3,8 +3,8 @@
 
 1. Visual Studio Codeを起動する。
 2. このリポジトリをクローンする
-3. Visual Studio Codeのターミナルを起動します。
-4. Windowsの方は"win_docker_run.bat"を実行（"win_docker_run.bat"と入力してENTER）し、Macの方は"mac_docker_run.sh"を実行（"mac_docker_run.sh"と入力してENTER）します。
+3. Visual Studio Codeのターミナルメニューから「新しいターミナル」を実行します。
+4. Windowsの方は"win_docker_run.bat"を実行（"win_docker_run.bat"と入力してENTER）し、Macの方は"mac_docker_run.sh"を実行（"zsh mac_docker_run.sh"と入力してENTER）します。
 4. "root@8a4557ad22e9:/opt#"のような表示がでていることを確認する。
 5. "npx http-server"を実行する。（"npx http-server"と入力してENTER）
 6. "Ok to proceed? (y)"という表示がでたら、"y"を押す。
